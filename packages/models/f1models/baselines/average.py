@@ -1,4 +1,7 @@
 from dataclasses import dataclass
+from pathlib import Path
+
+import pandas as pd
 
 
 @dataclass
@@ -9,10 +12,24 @@ class DriverBaseline:
 
 
 class AverageRacePredictor:
+    def __init__(self, data_path: str | Path = "data/samples/results.csv") -> None:
+        self.data_path = Path(data_path)
+
     def predict_race(self) -> list[DriverBaseline]:
-        return [
-            DriverBaseline("Verstappen", 0.68, 0.94),
-            DriverBaseline("Norris", 0.46, 0.87),
-            DriverBaseline("Leclerc", 0.38, 0.82),
-            DriverBaseline("Piastri", 0.34, 0.80),
-        ]
+        df = pd.read_csv(self.data_path)
+
+        rows: list[DriverBaseline] = []
+
+        for driver, group in df.groupby("driver"):
+            podium_probability = (group["finish_position"] <= 3).mean()
+            points_probability = (group["points"] > 0).mean()
+
+            rows.append(
+                DriverBaseline(
+                    driver=driver,
+                    podium_probability=float(podium_probability),
+                    points_probability=float(points_probability),
+                )
+            )
+
+        return sorted(rows, key=lambda row: row.podium_probability, reverse=True)
