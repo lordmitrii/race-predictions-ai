@@ -1,0 +1,441 @@
+season,round,race_name,event_date,country,location,circuit,driver_id,driver_code,driver_number,driver,constructor,grid,finish_position,classified_position,status,points,podium,points_finish
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,25.0,1,1
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,perez,PER,11,Sergio Pérez,Red Bull,2,2,2,Finished,18.0,1,1
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,alonso,ALO,14,Fernando Alonso,Aston Martin,5,3,3,Finished,15.0,1,1
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,4,4,4,Finished,12.0,0,1
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,7,5,5,Finished,10.0,0,1
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,stroll,STR,18,Lance Stroll,Aston Martin,8,6,6,Finished,8.0,0,1
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,russell,RUS,63,George Russell,Mercedes,6,7,7,Finished,6.0,0,1
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,12,8,8,Finished,4.0,0,1
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,20,9,9,Finished,2.0,0,1
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,albon,ALB,23,Alexander Albon,Williams,15,10,10,Finished,1.0,0,1
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,14,11,11,Finished,0.0,0,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,sargeant,SAR,2,Logan Sargeant,Williams,16,12,12,Lapped,0.0,0,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,17,13,13,Lapped,0.0,0,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,de_vries,DEV,21,Nyck de Vries,AlphaTauri,19,14,14,Lapped,0.0,0,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,10,15,15,Lapped,0.0,0,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,13,16,16,Lapped,0.0,0,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,norris,NOR,4,Lando Norris,McLaren,11,17,17,Lapped,0.0,0,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,9,18,R,Retired,0.0,0,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,3,19,R,Retired,0.0,0,0
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain,Sakhir,Bahrain International Circuit,piastri,PIA,81,Oscar Piastri,McLaren,18,20,R,Retired,0.0,0,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,perez,PER,11,Sergio Pérez,Red Bull,1,1,1,Finished,25.0,1,1
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,15,2,2,Finished,19.0,1,1
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,alonso,ALO,14,Fernando Alonso,Aston Martin,2,3,3,Finished,15.0,1,1
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,russell,RUS,63,George Russell,Mercedes,3,4,4,Finished,12.0,0,1
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,7,5,5,Finished,10.0,0,1
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,4,6,6,Finished,8.0,0,1
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,12,7,7,Finished,6.0,0,1
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,6,8,8,Finished,4.0,0,1
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,9,9,9,Finished,2.0,0,1
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,13,10,10,Finished,1.0,0,1
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,16,11,11,Finished,0.0,0,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,10,12,12,Finished,0.0,0,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,11,13,13,Finished,0.0,0,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,de_vries,DEV,21,Nyck de Vries,AlphaTauri,18,14,14,Finished,0.0,0,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,piastri,PIA,81,Oscar Piastri,McLaren,8,15,15,Finished,0.0,0,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,sargeant,SAR,2,Logan Sargeant,Williams,20,16,16,Finished,0.0,0,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,norris,NOR,4,Lando Norris,McLaren,19,17,17,Finished,0.0,0,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,14,18,18,Lapped,0.0,0,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,albon,ALB,23,Alexander Albon,Williams,17,19,R,Retired,0.0,0,0
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,stroll,STR,18,Lance Stroll,Aston Martin,5,20,R,Retired,0.0,0,0
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,25.0,1,1
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,3,2,2,Finished,18.0,1,1
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,alonso,ALO,14,Fernando Alonso,Aston Martin,4,3,3,Finished,15.0,1,1
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,stroll,STR,18,Lance Stroll,Aston Martin,6,4,4,Finished,12.0,0,1
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,perez,PER,11,Sergio Pérez,Red Bull,20,5,5,Finished,11.0,0,1
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,norris,NOR,4,Lando Norris,McLaren,13,6,6,Finished,8.0,0,1
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,10,7,7,Finished,6.0,0,1
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,piastri,PIA,81,Oscar Piastri,McLaren,16,8,8,Finished,4.0,0,1
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,17,9,9,Finished,2.0,0,1
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,12,10,10,Finished,1.0,0,1
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,19,11,11,Finished,0.0,0,0
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,5,12,12,Finished,0.0,0,0
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,9,13,13,Retired,0.0,0,0
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,11,14,14,Retired,0.0,0,0
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,de_vries,DEV,21,Nyck de Vries,AlphaTauri,15,15,15,Retired,0.0,0,0
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,sargeant,SAR,2,Logan Sargeant,Williams,18,16,16,Retired,0.0,0,0
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,14,17,17,Retired,0.0,0,0
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,russell,RUS,63,George Russell,Mercedes,2,18,R,Retired,0.0,0,0
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,albon,ALB,23,Alexander Albon,Williams,8,19,R,Retired,0.0,0,0
+2023,3,Australian Grand Prix,2023-04-02,Australia,Melbourne,Albert Park Grand Prix Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,7,20,R,Retired,0.0,0,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,perez,PER,11,Sergio Pérez,Red Bull,3,1,1,Finished,25.0,1,1
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,2,2,2,Finished,18.0,1,1
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,1,3,3,Finished,15.0,1,1
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,alonso,ALO,14,Fernando Alonso,Aston Martin,6,4,4,Finished,12.0,0,1
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,4,5,5,Finished,10.0,0,1
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,5,6,6,Finished,8.0,0,1
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,stroll,STR,18,Lance Stroll,Aston Martin,9,7,7,Finished,6.0,0,1
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,russell,RUS,63,George Russell,Mercedes,11,8,8,Finished,5.0,0,1
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,norris,NOR,4,Lando Norris,McLaren,7,9,9,Finished,2.0,0,1
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,8,10,10,Finished,1.0,0,1
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,piastri,PIA,81,Oscar Piastri,McLaren,10,11,11,Finished,0.0,0,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,albon,ALB,23,Alexander Albon,Williams,12,12,12,Finished,0.0,0,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,16,13,13,Finished,0.0,0,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,17,14,14,Finished,0.0,0,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,19,15,15,Finished,0.0,0,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,sargeant,SAR,2,Logan Sargeant,Williams,14,16,16,Finished,0.0,0,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,20,17,17,Lapped,0.0,0,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,13,18,18,Lapped,0.0,0,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,15,19,R,Retired,0.0,0,0
+2023,4,Azerbaijan Grand Prix,2023-04-30,Azerbaijan,Baku,Baku City Circuit,de_vries,DEV,21,Nyck de Vries,AlphaTauri,18,20,R,Retired,0.0,0,0
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,max_verstappen,VER,1,Max Verstappen,Red Bull,9,1,1,Finished,26.0,1,1
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,perez,PER,11,Sergio Pérez,Red Bull,1,2,2,Finished,18.0,1,1
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,alonso,ALO,14,Fernando Alonso,Aston Martin,2,3,3,Finished,15.0,1,1
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,russell,RUS,63,George Russell,Mercedes,6,4,4,Finished,12.0,0,1
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,sainz,SAI,55,Carlos Sainz,Ferrari,3,5,5,Finished,10.0,0,1
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,hamilton,HAM,44,Lewis Hamilton,Mercedes,13,6,6,Finished,8.0,0,1
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,leclerc,LEC,16,Charles Leclerc,Ferrari,7,7,7,Finished,6.0,0,1
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,5,8,8,Finished,4.0,0,1
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,8,9,9,Finished,2.0,0,1
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,4,10,10,Finished,1.0,0,1
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,17,11,11,Finished,0.0,0,0
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,stroll,STR,18,Lance Stroll,Aston Martin,18,12,12,Finished,0.0,0,0
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,10,13,13,Finished,0.0,0,0
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,albon,ALB,23,Alexander Albon,Williams,11,14,14,Finished,0.0,0,0
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,12,15,15,Finished,0.0,0,0
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,14,16,16,Finished,0.0,0,0
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,norris,NOR,4,Lando Norris,McLaren,16,17,17,Finished,0.0,0,0
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,de_vries,DEV,21,Nyck de Vries,AlphaTauri,15,18,18,Finished,0.0,0,0
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,piastri,PIA,81,Oscar Piastri,McLaren,19,19,19,Lapped,0.0,0,0
+2023,5,Miami Grand Prix,2023-05-07,USA,Miami,Miami International Autodrome,sargeant,SAR,2,Logan Sargeant,Williams,20,20,20,Lapped,0.0,0,0
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,25.0,1,1
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,alonso,ALO,14,Fernando Alonso,Aston Martin,2,2,2,Finished,18.0,1,1
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,3,3,3,Finished,15.0,1,1
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,hamilton,HAM,44,Lewis Hamilton,Mercedes,5,4,4,Finished,13.0,0,1
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,russell,RUS,63,George Russell,Mercedes,8,5,5,Finished,10.0,0,1
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,leclerc,LEC,16,Charles Leclerc,Ferrari,6,6,6,Finished,8.0,0,1
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,7,7,7,Finished,6.0,0,1
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,sainz,SAI,55,Carlos Sainz,Ferrari,4,8,8,Finished,4.0,0,1
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,norris,NOR,4,Lando Norris,McLaren,10,9,9,Lapped,2.0,0,1
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,piastri,PIA,81,Oscar Piastri,McLaren,11,10,10,Lapped,1.0,0,1
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,15,11,11,Lapped,0.0,0,0
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,de_vries,DEV,21,Nyck de Vries,AlphaTauri,12,12,12,Lapped,0.0,0,0
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,19,13,13,Lapped,0.0,0,0
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,albon,ALB,23,Alexander Albon,Williams,13,14,14,Lapped,0.0,0,0
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,9,15,15,Lapped,0.0,0,0
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,perez,PER,11,Sergio Pérez,Red Bull,20,16,16,Lapped,0.0,0,0
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,18,17,17,Lapped,0.0,0,0
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,sargeant,SAR,2,Logan Sargeant,Williams,16,18,18,Lapped,0.0,0,0
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,17,19,19,Retired,0.0,0,0
+2023,6,Monaco Grand Prix,2023-05-28,Monaco,Monte Carlo,Circuit de Monaco,stroll,STR,18,Lance Stroll,Aston Martin,14,20,R,Retired,0.0,0,0
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,26.0,1,1
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,hamilton,HAM,44,Lewis Hamilton,Mercedes,4,2,2,Finished,18.0,1,1
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,russell,RUS,63,George Russell,Mercedes,12,3,3,Finished,15.0,1,1
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,perez,PER,11,Sergio Pérez,Red Bull,11,4,4,Finished,12.0,0,1
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,sainz,SAI,55,Carlos Sainz,Ferrari,2,5,5,Finished,10.0,0,1
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,stroll,STR,18,Lance Stroll,Aston Martin,5,6,6,Finished,8.0,0,1
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,alonso,ALO,14,Fernando Alonso,Aston Martin,8,7,7,Finished,6.0,0,1
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,6,8,8,Finished,4.0,0,1
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,13,9,9,Finished,2.0,0,1
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,10,10,10,Finished,1.0,0,1
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,leclerc,LEC,16,Charles Leclerc,Ferrari,19,11,11,Finished,0.0,0,0
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,15,12,12,Finished,0.0,0,0
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,piastri,PIA,81,Oscar Piastri,McLaren,9,13,13,Lapped,0.0,0,0
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,de_vries,DEV,21,Nyck de Vries,AlphaTauri,14,14,14,Lapped,0.0,0,0
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,7,15,15,Lapped,0.0,0,0
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,albon,ALB,23,Alexander Albon,Williams,18,16,16,Lapped,0.0,0,0
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,norris,NOR,4,Lando Norris,McLaren,3,17,17,Lapped,0.0,0,0
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,17,18,18,Lapped,0.0,0,0
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,16,19,19,Lapped,0.0,0,0
+2023,7,Spanish Grand Prix,2023-06-04,Spain,Barcelona,Circuit de Barcelona-Catalunya,sargeant,SAR,2,Logan Sargeant,Williams,20,20,20,Lapped,0.0,0,0
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,25.0,1,1
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,alonso,ALO,14,Fernando Alonso,Aston Martin,2,2,2,Finished,18.0,1,1
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,hamilton,HAM,44,Lewis Hamilton,Mercedes,3,3,3,Finished,15.0,1,1
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,leclerc,LEC,16,Charles Leclerc,Ferrari,10,4,4,Finished,12.0,0,1
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,sainz,SAI,55,Carlos Sainz,Ferrari,11,5,5,Finished,10.0,0,1
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,perez,PER,11,Sergio Pérez,Red Bull,12,6,6,Finished,9.0,0,1
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,albon,ALB,23,Alexander Albon,Williams,9,7,7,Finished,6.0,0,1
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,6,8,8,Finished,4.0,0,1
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,stroll,STR,18,Lance Stroll,Aston Martin,16,9,9,Finished,2.0,0,1
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,14,10,10,Finished,1.0,0,1
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,piastri,PIA,81,Oscar Piastri,McLaren,8,11,11,Finished,0.0,0,0
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,15,12,12,Finished,0.0,0,0
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,norris,NOR,4,Lando Norris,McLaren,7,13,13,Finished,0.0,0,0
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,19,14,14,Finished,0.0,0,0
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,5,15,15,Lapped,0.0,0,0
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,20,16,16,Lapped,0.0,0,0
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,13,17,17,Lapped,0.0,0,0
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,de_vries,DEV,21,Nyck de Vries,AlphaTauri,17,18,18,Lapped,0.0,0,0
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,russell,RUS,63,George Russell,Mercedes,4,19,R,Retired,0.0,0,0
+2023,8,Canadian Grand Prix,2023-06-18,Canada,Montreal,Circuit Gilles Villeneuve,sargeant,SAR,2,Logan Sargeant,Williams,18,20,R,Retired,0.0,0,0
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,26.0,1,1
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,leclerc,LEC,16,Charles Leclerc,Ferrari,2,2,2,Finished,18.0,1,1
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,perez,PER,11,Sergio Pérez,Red Bull,15,3,3,Finished,15.0,1,1
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,norris,NOR,4,Lando Norris,McLaren,4,4,4,Finished,12.0,0,1
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,alonso,ALO,14,Fernando Alonso,Aston Martin,7,5,5,Finished,10.0,0,1
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,sainz,SAI,55,Carlos Sainz,Ferrari,3,6,6,Finished,8.0,0,1
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,russell,RUS,63,George Russell,Mercedes,11,7,7,Finished,6.0,0,1
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,hamilton,HAM,44,Lewis Hamilton,Mercedes,5,8,8,Finished,4.0,0,1
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,stroll,STR,18,Lance Stroll,Aston Martin,6,9,9,Finished,2.0,0,1
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,9,10,10,Finished,1.0,0,1
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,albon,ALB,23,Alexander Albon,Williams,10,11,11,Finished,0.0,0,0
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,17,12,12,Lapped,0.0,0,0
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,sargeant,SAR,2,Logan Sargeant,Williams,18,13,13,Lapped,0.0,0,0
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,12,14,14,Lapped,0.0,0,0
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,14,15,15,Lapped,0.0,0,0
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,piastri,PIA,81,Oscar Piastri,McLaren,13,16,16,Lapped,0.0,0,0
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,de_vries,DEV,21,Nyck de Vries,AlphaTauri,20,17,17,Lapped,0.0,0,0
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,19,18,18,Lapped,0.0,0,0
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,16,19,19,Lapped,0.0,0,0
+2023,9,Austrian Grand Prix,2023-07-02,Austria,Spielberg,Red Bull Ring,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,8,20,R,Retired,0.0,0,0
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,26.0,1,1
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,norris,NOR,4,Lando Norris,McLaren,2,2,2,Finished,18.0,1,1
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,7,3,3,Finished,15.0,1,1
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,piastri,PIA,81,Oscar Piastri,McLaren,3,4,4,Finished,12.0,0,1
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,russell,RUS,63,George Russell,Mercedes,6,5,5,Finished,10.0,0,1
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,perez,PER,11,Sergio Pérez,Red Bull,15,6,6,Finished,8.0,0,1
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,alonso,ALO,14,Fernando Alonso,Aston Martin,9,7,7,Finished,6.0,0,1
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,albon,ALB,23,Alexander Albon,Williams,8,8,8,Finished,4.0,0,1
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,4,9,9,Finished,2.0,0,1
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,5,10,10,Finished,1.0,0,1
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,sargeant,SAR,2,Logan Sargeant,Williams,14,11,11,Finished,0.0,0,0
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,20,12,12,Finished,0.0,0,0
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,11,13,13,Finished,0.0,0,0
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,stroll,STR,18,Lance Stroll,Aston Martin,12,14,14,Finished,0.0,0,0
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,17,15,15,Finished,0.0,0,0
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,16,16,16,Finished,0.0,0,0
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,de_vries,DEV,21,Nyck de Vries,AlphaTauri,18,17,17,Finished,0.0,0,0
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,10,18,18,Retired,0.0,0,0
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,19,19,R,Retired,0.0,0,0
+2023,10,British Grand Prix,2023-07-09,UK,Silverstone,Silverstone Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,13,20,R,Retired,0.0,0,0
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,max_verstappen,VER,1,Max Verstappen,Red Bull,2,1,1,Finished,26.0,1,1
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,norris,NOR,4,Lando Norris,McLaren,3,2,2,Finished,18.0,1,1
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,perez,PER,11,Sergio Pérez,Red Bull,9,3,3,Finished,15.0,1,1
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,hamilton,HAM,44,Lewis Hamilton,Mercedes,1,4,4,Finished,12.0,0,1
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,piastri,PIA,81,Oscar Piastri,McLaren,4,5,5,Finished,10.0,0,1
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,russell,RUS,63,George Russell,Mercedes,18,6,6,Finished,8.0,0,1
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,leclerc,LEC,16,Charles Leclerc,Ferrari,6,7,7,Finished,6.0,0,1
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,sainz,SAI,55,Carlos Sainz,Ferrari,11,8,8,Finished,4.0,0,1
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,alonso,ALO,14,Fernando Alonso,Aston Martin,8,9,9,Finished,2.0,0,1
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,stroll,STR,18,Lance Stroll,Aston Martin,14,10,10,Lapped,1.0,0,1
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,albon,ALB,23,Alexander Albon,Williams,16,11,11,Lapped,0.0,0,0
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,7,12,12,Lapped,0.0,0,0
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,ricciardo,RIC,3,Daniel Ricciardo,AlphaTauri,13,13,13,Lapped,0.0,0,0
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,10,14,14,Lapped,0.0,0,0
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,17,15,15,Lapped,0.0,0,0
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,5,16,16,Lapped,0.0,0,0
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,19,17,17,Lapped,0.0,0,0
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,sargeant,SAR,2,Logan Sargeant,Williams,20,18,18,Retired,0.0,0,0
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,12,19,R,Retired,0.0,0,0
+2023,11,Hungarian Grand Prix,2023-07-23,Hungary,Budapest,Hungaroring,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,15,20,R,Retired,0.0,0,0
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,max_verstappen,VER,1,Max Verstappen,Red Bull,6,1,1,Finished,25.0,1,1
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,perez,PER,11,Sergio Pérez,Red Bull,2,2,2,Finished,18.0,1,1
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,leclerc,LEC,16,Charles Leclerc,Ferrari,1,3,3,Finished,15.0,1,1
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,hamilton,HAM,44,Lewis Hamilton,Mercedes,3,4,4,Finished,13.0,0,1
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,alonso,ALO,14,Fernando Alonso,Aston Martin,9,5,5,Finished,10.0,0,1
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,russell,RUS,63,George Russell,Mercedes,8,6,6,Finished,8.0,0,1
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,norris,NOR,4,Lando Norris,McLaren,7,7,7,Finished,6.0,0,1
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,14,8,8,Finished,4.0,0,1
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,stroll,STR,18,Lance Stroll,Aston Martin,10,9,9,Finished,2.0,0,1
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,11,10,10,Finished,1.0,0,1
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,12,11,11,Finished,0.0,0,0
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,13,12,12,Finished,0.0,0,0
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,17,13,13,Finished,0.0,0,0
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,albon,ALB,23,Alexander Albon,Williams,15,14,14,Finished,0.0,0,0
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,16,15,15,Finished,0.0,0,0
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,ricciardo,RIC,3,Daniel Ricciardo,AlphaTauri,19,16,16,Finished,0.0,0,0
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,sargeant,SAR,2,Logan Sargeant,Williams,18,17,17,Finished,0.0,0,0
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,20,18,18,Finished,0.0,0,0
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,sainz,SAI,55,Carlos Sainz,Ferrari,4,19,R,Retired,0.0,0,0
+2023,12,Belgian Grand Prix,2023-07-30,Belgium,Spa,Circuit de Spa-Francorchamps,piastri,PIA,81,Oscar Piastri,McLaren,5,20,R,Retired,0.0,0,0
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,25.0,1,1
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,alonso,ALO,14,Fernando Alonso,Aston Martin,5,2,2,Finished,19.0,1,1
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,12,3,3,Finished,15.0,1,1
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,perez,PER,11,Sergio Pérez,Red Bull,7,4,4,Finished,12.0,0,1
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,sainz,SAI,55,Carlos Sainz,Ferrari,6,5,5,Finished,10.0,0,1
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,hamilton,HAM,44,Lewis Hamilton,Mercedes,13,6,6,Finished,8.0,0,1
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,norris,NOR,4,Lando Norris,McLaren,2,7,7,Finished,6.0,0,1
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,albon,ALB,23,Alexander Albon,Williams,4,8,8,Finished,4.0,0,1
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,piastri,PIA,81,Oscar Piastri,McLaren,8,9,9,Finished,2.0,0,1
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,16,10,10,Finished,1.0,0,1
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,stroll,STR,18,Lance Stroll,Aston Martin,11,11,11,Finished,0.0,0,0
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,14,12,12,Finished,0.0,0,0
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,lawson,LAW,40,Liam Lawson,AlphaTauri,19,13,13,Finished,0.0,0,0
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,18,14,14,Finished,0.0,0,0
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,17,15,15,Finished,0.0,0,0
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,0,16,16,Finished,0.0,0,0
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,russell,RUS,63,George Russell,Mercedes,3,17,17,Finished,0.0,0,0
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,15,18,R,Accident,0.0,0,0
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,leclerc,LEC,16,Charles Leclerc,Ferrari,9,19,R,Undertray,0.0,0,0
+2023,13,Dutch Grand Prix,2023-08-27,Netherlands,Zandvoort,Circuit Park Zandvoort,sargeant,SAR,2,Logan Sargeant,Williams,10,20,R,Accident,0.0,0,0
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,max_verstappen,VER,1,Max Verstappen,Red Bull,2,1,1,Finished,25.0,1,1
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,perez,PER,11,Sergio Pérez,Red Bull,5,2,2,Finished,18.0,1,1
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,sainz,SAI,55,Carlos Sainz,Ferrari,1,3,3,Finished,15.0,1,1
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,leclerc,LEC,16,Charles Leclerc,Ferrari,3,4,4,Finished,12.0,0,1
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,russell,RUS,63,George Russell,Mercedes,4,5,5,Finished,10.0,0,1
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,hamilton,HAM,44,Lewis Hamilton,Mercedes,8,6,6,Finished,8.0,0,1
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,albon,ALB,23,Alexander Albon,Williams,6,7,7,Finished,6.0,0,1
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,norris,NOR,4,Lando Norris,McLaren,9,8,8,Finished,4.0,0,1
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,alonso,ALO,14,Fernando Alonso,Aston Martin,10,9,9,Finished,2.0,0,1
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,14,10,10,Finished,1.0,0,1
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,lawson,LAW,40,Liam Lawson,AlphaTauri,12,11,11,Finished,0.0,0,0
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,piastri,PIA,81,Oscar Piastri,McLaren,7,12,12,Finished,0.0,0,0
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,sargeant,SAR,2,Logan Sargeant,Williams,15,13,13,Finished,0.0,0,0
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,16,14,14,Finished,0.0,0,0
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,17,15,15,Finished,0.0,0,0
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,stroll,STR,18,Lance Stroll,Aston Martin,20,16,16,Finished,0.0,0,0
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,13,17,17,Lapped,0.0,0,0
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,19,18,18,Lapped,0.0,0,0
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,18,19,R,Retired,0.0,0,0
+2023,14,Italian Grand Prix,2023-09-03,Italy,Monza,Autodromo Nazionale di Monza,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,11,20,W,Did not start,0.0,0,0
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,1,1,1,Finished,25.0,1,1
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,norris,NOR,4,Lando Norris,McLaren,4,2,2,Finished,18.0,1,1
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,5,3,3,Finished,16.0,1,1
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,3,4,4,Finished,12.0,0,1
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,11,5,5,Finished,10.0,0,1
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,12,6,6,Finished,8.0,0,1
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,piastri,PIA,81,Oscar Piastri,McLaren,17,7,7,Finished,6.0,0,1
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,perez,PER,11,Sergio Pérez,Red Bull,13,8,8,Finished,4.0,0,1
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,lawson,LAW,40,Liam Lawson,AlphaTauri,10,9,9,Finished,2.0,0,1
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,6,10,10,Finished,1.0,0,1
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,albon,ALB,23,Alexander Albon,Williams,14,11,11,Finished,0.0,0,0
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,19,12,12,Finished,0.0,0,0
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,9,13,13,Finished,0.0,0,0
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,sargeant,SAR,2,Logan Sargeant,Williams,18,14,14,Finished,0.0,0,0
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,alonso,ALO,14,Fernando Alonso,Aston Martin,7,15,15,Finished,0.0,0,0
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,russell,RUS,63,George Russell,Mercedes,2,16,16,Retired,0.0,0,0
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,16,17,R,Retired,0.0,0,0
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,8,18,R,Retired,0.0,0,0
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,15,19,R,Retired,0.0,0,0
+2023,15,Singapore Grand Prix,2023-09-17,Singapore,Marina Bay,Marina Bay Street Circuit,stroll,STR,18,Lance Stroll,Aston Martin,0,20,W,Withdrew,0.0,0,0
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,26.0,1,1
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,norris,NOR,4,Lando Norris,McLaren,3,2,2,Finished,18.0,1,1
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,piastri,PIA,81,Oscar Piastri,McLaren,2,3,3,Finished,15.0,1,1
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,4,4,4,Finished,12.0,0,1
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,7,5,5,Finished,10.0,0,1
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,6,6,6,Finished,8.0,0,1
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,russell,RUS,63,George Russell,Mercedes,8,7,7,Finished,6.0,0,1
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,alonso,ALO,14,Fernando Alonso,Aston Martin,10,8,8,Finished,4.0,0,1
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,14,9,9,Finished,2.0,0,1
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,12,10,10,Finished,1.0,0,1
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,lawson,LAW,40,Liam Lawson,AlphaTauri,11,11,11,Lapped,0.0,0,0
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,9,12,12,Lapped,0.0,0,0
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,19,13,13,Lapped,0.0,0,0
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,18,14,14,Lapped,0.0,0,0
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,15,15,15,Lapped,0.0,0,0
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,albon,ALB,23,Alexander Albon,Williams,13,16,R,Retired,0.0,0,0
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,sargeant,SAR,2,Logan Sargeant,Williams,20,17,R,Retired,0.0,0,0
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,stroll,STR,18,Lance Stroll,Aston Martin,17,18,R,Retired,0.0,0,0
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,perez,PER,11,Sergio Pérez,Red Bull,5,19,R,Retired,0.0,0,0
+2023,16,Japanese Grand Prix,2023-09-24,Japan,Suzuka,Suzuka Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,16,20,R,Retired,0.0,0,0
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,26.0,1,1
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,piastri,PIA,81,Oscar Piastri,McLaren,6,2,2,Finished,18.0,1,1
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,norris,NOR,4,Lando Norris,McLaren,10,3,3,Finished,15.0,1,1
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,russell,RUS,63,George Russell,Mercedes,2,4,4,Finished,12.0,0,1
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,5,5,5,Finished,10.0,0,1
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,alonso,ALO,14,Fernando Alonso,Aston Martin,4,6,6,Finished,8.0,0,1
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,8,7,7,Finished,6.0,0,1
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,9,8,8,Finished,4.0,0,1
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,19,9,9,Finished,2.0,0,1
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,perez,PER,11,Sergio Pérez,Red Bull,20,10,10,Finished,1.0,0,1
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,stroll,STR,18,Lance Stroll,Aston Martin,16,11,11,Finished,0.0,0,0
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,7,12,12,Finished,0.0,0,0
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,albon,ALB,23,Alexander Albon,Williams,13,13,13,Finished,0.0,0,0
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,18,14,14,Lapped,0.0,0,0
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,11,15,15,Lapped,0.0,0,0
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,14,16,16,Lapped,0.0,0,0
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,lawson,LAW,40,Liam Lawson,AlphaTauri,17,17,17,Lapped,0.0,0,0
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,sargeant,SAR,2,Logan Sargeant,Williams,15,18,R,Retired,0.0,0,0
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,3,19,R,Retired,0.0,0,0
+2023,17,Qatar Grand Prix,2023-10-08,Qatar,Lusail,Losail International Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,12,20,W,Did not start,0.0,0,0
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,max_verstappen,VER,1,Max Verstappen,Red Bull,6,1,1,Finished,25.0,1,1
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,norris,NOR,4,Lando Norris,McLaren,2,2,2,Finished,18.0,1,1
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,sainz,SAI,55,Carlos Sainz,Ferrari,4,3,3,Finished,15.0,1,1
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,perez,PER,11,Sergio Pérez,Red Bull,9,4,4,Finished,12.0,0,1
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,russell,RUS,63,George Russell,Mercedes,5,5,5,Finished,10.0,0,1
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,7,6,6,Finished,8.0,0,1
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,stroll,STR,18,Lance Stroll,Aston Martin,20,7,7,Finished,6.0,0,1
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,11,8,8,Finished,5.0,0,1
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,albon,ALB,23,Alexander Albon,Williams,15,9,9,Finished,2.0,0,1
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,sargeant,SAR,2,Logan Sargeant,Williams,16,10,10,Finished,1.0,0,1
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,18,11,11,Finished,0.0,0,0
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,13,12,12,Finished,0.0,0,0
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,12,13,13,Lapped,0.0,0,0
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,17,14,14,Lapped,0.0,0,0
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,ricciardo,RIC,3,Daniel Ricciardo,AlphaTauri,14,15,15,Lapped,0.0,0,0
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,alonso,ALO,14,Fernando Alonso,Aston Martin,19,16,R,Retired,0.0,0,0
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,piastri,PIA,81,Oscar Piastri,McLaren,10,17,R,Retired,0.0,0,0
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,8,18,R,Retired,0.0,0,0
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,hamilton,HAM,44,Lewis Hamilton,Mercedes,3,19,19,Disqualified,0.0,0,0
+2023,18,United States Grand Prix,2023-10-22,USA,Austin,Circuit of the Americas,leclerc,LEC,16,Charles Leclerc,Ferrari,1,20,20,Disqualified,0.0,0,0
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,max_verstappen,VER,1,Max Verstappen,Red Bull,3,1,1,Finished,25.0,1,1
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,hamilton,HAM,44,Lewis Hamilton,Mercedes,6,2,2,Finished,19.0,1,1
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,leclerc,LEC,16,Charles Leclerc,Ferrari,1,3,3,Finished,15.0,1,1
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,sainz,SAI,55,Carlos Sainz,Ferrari,2,4,4,Finished,12.0,0,1
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,norris,NOR,4,Lando Norris,McLaren,17,5,5,Finished,10.0,0,1
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,russell,RUS,63,George Russell,Mercedes,8,6,6,Finished,8.0,0,1
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,ricciardo,RIC,3,Daniel Ricciardo,AlphaTauri,4,7,7,Finished,6.0,0,1
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,piastri,PIA,81,Oscar Piastri,McLaren,7,8,8,Finished,4.0,0,1
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,albon,ALB,23,Alexander Albon,Williams,14,9,9,Finished,2.0,0,1
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,15,10,10,Finished,1.0,0,1
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,11,11,11,Finished,0.0,0,0
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,18,12,12,Finished,0.0,0,0
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,12,13,13,Finished,0.0,0,0
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,10,14,14,Finished,0.0,0,0
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,9,15,15,Finished,0.0,0,0
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,sargeant,SAR,2,Logan Sargeant,Williams,19,16,16,Retired,0.0,0,0
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,stroll,STR,18,Lance Stroll,Aston Martin,0,17,17,Collision damage,0.0,0,0
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,alonso,ALO,14,Fernando Alonso,Aston Martin,13,18,W,Withdrew,0.0,0,0
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,16,19,R,Accident,0.0,0,0
+2023,19,Mexico City Grand Prix,2023-10-29,Mexico,Mexico City,Autódromo Hermanos Rodríguez,perez,PER,11,Sergio Pérez,Red Bull,5,20,R,Collision damage,0.0,0,0
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,25.0,1,1
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,norris,NOR,4,Lando Norris,McLaren,6,2,2,Finished,19.0,1,1
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,alonso,ALO,14,Fernando Alonso,Aston Martin,4,3,3,Finished,15.0,1,1
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,perez,PER,11,Sergio Pérez,Red Bull,9,4,4,Finished,12.0,0,1
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,stroll,STR,18,Lance Stroll,Aston Martin,3,5,5,Finished,10.0,0,1
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,sainz,SAI,55,Carlos Sainz,Ferrari,7,6,6,Finished,8.0,0,1
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,15,7,7,Finished,6.0,0,1
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,hamilton,HAM,44,Lewis Hamilton,Mercedes,5,8,8,Finished,4.0,0,1
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,16,9,9,Finished,2.0,0,1
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,14,10,10,Lapped,1.0,0,1
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,sargeant,SAR,2,Logan Sargeant,Williams,19,11,11,Lapped,0.0,0,0
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,11,12,12,Lapped,0.0,0,0
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,ricciardo,RIC,3,Daniel Ricciardo,AlphaTauri,17,13,13,Lapped,0.0,0,0
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,piastri,PIA,81,Oscar Piastri,McLaren,10,14,14,Lapped,0.0,0,0
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,russell,RUS,63,George Russell,Mercedes,8,15,R,Retired,0.0,0,0
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,18,16,R,Retired,0.0,0,0
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,20,17,R,Retired,0.0,0,0
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,12,18,R,Retired,0.0,0,0
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,albon,ALB,23,Alexander Albon,Williams,13,19,R,Retired,0.0,0,0
+2023,20,São Paulo Grand Prix,2023-11-05,Brazil,São Paulo,Autódromo José Carlos Pace,leclerc,LEC,16,Charles Leclerc,Ferrari,2,20,W,Did not start,0.0,0,0
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,2,1,1,Finished,25.0,1,1
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,1,2,2,Finished,18.0,1,1
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,perez,PER,11,Sergio Pérez,Red Bull,11,3,3,Finished,15.0,1,1
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,16,4,4,Finished,12.0,0,1
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,stroll,STR,18,Lance Stroll,Aston Martin,19,5,5,Finished,10.0,0,1
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,12,6,6,Finished,8.0,0,1
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,10,7,7,Finished,6.0,0,1
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,russell,RUS,63,George Russell,Mercedes,3,8,8,Finished,4.0,0,1
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,alonso,ALO,14,Fernando Alonso,Aston Martin,9,9,9,Finished,2.0,0,1
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,piastri,PIA,81,Oscar Piastri,McLaren,18,10,10,Finished,2.0,0,1
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,4,11,11,Finished,0.0,0,0
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,albon,ALB,23,Alexander Albon,Williams,5,12,12,Finished,0.0,0,0
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,8,13,13,Finished,0.0,0,0
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,ricciardo,RIC,3,Daniel Ricciardo,AlphaTauri,14,14,14,Finished,0.0,0,0
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,17,15,15,Finished,0.0,0,0
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,sargeant,SAR,2,Logan Sargeant,Williams,6,16,16,Finished,0.0,0,0
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,7,17,17,Finished,0.0,0,0
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,20,18,18,Retired,0.0,0,0
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,13,19,19,Retired,0.0,0,0
+2023,21,Las Vegas Grand Prix,2023-11-19,USA,Las Vegas,Las Vegas Strip Street Circuit,norris,NOR,4,Lando Norris,McLaren,15,20,R,Retired,0.0,0,0
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,26.0,1,1
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,2,2,2,Finished,18.0,1,1
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,russell,RUS,63,George Russell,Mercedes,4,3,3,Finished,15.0,1,1
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,perez,PER,11,Sergio Pérez,Red Bull,9,4,4,Finished,12.0,0,1
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,norris,NOR,4,Lando Norris,McLaren,5,5,5,Finished,10.0,0,1
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,piastri,PIA,81,Oscar Piastri,McLaren,3,6,6,Finished,8.0,0,1
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,alonso,ALO,14,Fernando Alonso,Aston Martin,7,7,7,Finished,6.0,0,1
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,6,8,8,Finished,4.0,0,1
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,11,9,9,Finished,2.0,0,1
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,stroll,STR,18,Lance Stroll,Aston Martin,13,10,10,Finished,1.0,0,1
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,ricciardo,RIC,3,Daniel Ricciardo,AlphaTauri,15,11,11,Finished,0.0,0,0
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,12,12,12,Finished,0.0,0,0
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,gasly,GAS,10,Pierre Gasly,Alpine F1 Team,10,13,13,Finished,0.0,0,0
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,albon,ALB,23,Alexander Albon,Williams,14,14,14,Finished,0.0,0,0
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Haas F1 Team,8,15,15,Finished,0.0,0,0
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,sargeant,SAR,2,Logan Sargeant,Williams,20,16,16,Finished,0.0,0,0
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,19,17,17,Finished,0.0,0,0
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,16,18,18,Retired,0.0,0,0
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,18,19,19,Lapped,0.0,0,0
+2023,22,Abu Dhabi Grand Prix,2023-11-26,UAE,Abu Dhabi,Yas Marina Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,17,20,20,Lapped,0.0,0,0

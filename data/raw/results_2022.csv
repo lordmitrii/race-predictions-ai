@@ -1,0 +1,441 @@
+season,round,race_name,event_date,country,location,circuit,driver_id,driver_code,driver_number,driver,constructor,grid,finish_position,classified_position,status,points,podium,points_finish
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,1,1,1,Finished,26.0,1,1
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,3,2,2,Finished,18.0,1,1
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,5,3,3,Finished,15.0,1,1
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,russell,RUS,63,George Russell,Mercedes,9,4,4,Finished,12.0,0,1
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,7,5,5,Finished,10.0,0,1
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,6,6,6,Finished,8.0,0,1
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,11,7,7,Finished,6.0,0,1
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,16,8,8,Finished,4.0,0,1
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,8,9,9,Finished,2.0,0,1
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,15,10,10,Finished,1.0,0,1
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,12,11,11,Finished,0.0,0,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,stroll,STR,18,Lance Stroll,Aston Martin,19,12,12,Finished,0.0,0,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,albon,ALB,23,Alexander Albon,Williams,14,13,13,Finished,0.0,0,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,ricciardo,RIC,3,Daniel Ricciardo,McLaren,18,14,14,Finished,0.0,0,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,norris,NOR,4,Lando Norris,McLaren,13,15,15,Finished,0.0,0,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,latifi,LAT,6,Nicholas Latifi,Williams,20,16,16,Finished,0.0,0,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Aston Martin,17,17,17,Finished,0.0,0,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,perez,PER,11,Sergio Pérez,Red Bull,4,18,18,Fuel pressure,0.0,0,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,2,19,19,Fuel pressure,0.0,0,0
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain,Sakhir,Bahrain International Circuit,gasly,GAS,10,Pierre Gasly,AlphaTauri,10,20,R,Power Unit,0.0,0,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,4,1,1,Finished,25.0,1,1
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,2,2,2,Finished,19.0,1,1
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,3,3,3,Finished,15.0,1,1
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,perez,PER,11,Sergio Pérez,Red Bull,1,4,4,Finished,12.0,0,1
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,russell,RUS,63,George Russell,Mercedes,6,5,5,Finished,10.0,0,1
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,5,6,6,Finished,8.0,0,1
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,norris,NOR,4,Lando Norris,McLaren,11,7,7,Finished,6.0,0,1
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,gasly,GAS,10,Pierre Gasly,AlphaTauri,9,8,8,Finished,4.0,0,1
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,10,9,9,Finished,2.0,0,1
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,15,10,10,Finished,1.0,0,1
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,12,11,11,Finished,0.0,0,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,hulkenberg,HUL,27,Nico Hülkenberg,Aston Martin,17,12,12,Finished,0.0,0,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,stroll,STR,18,Lance Stroll,Aston Martin,13,13,13,+1 Lap,0.0,0,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,albon,ALB,23,Alexander Albon,Williams,16,14,14,Collision damage,0.0,0,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,8,15,R,Cooling system,0.0,0,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,7,16,R,Water pump,0.0,0,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,ricciardo,RIC,3,Daniel Ricciardo,McLaren,14,17,R,Gearbox,0.0,0,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,latifi,LAT,6,Nicholas Latifi,Williams,18,18,R,Accident,0.0,0,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,19,19,R,Power Unit,0.0,0,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Saudi Arabia,Jeddah,Jeddah Corniche Circuit,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,0,20,W,Withdrew,0.0,0,0
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,1,1,1,Finished,26.0,1,1
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,perez,PER,11,Sergio Pérez,Red Bull,3,2,2,Finished,18.0,1,1
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,russell,RUS,63,George Russell,Mercedes,6,3,3,Finished,15.0,1,1
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,5,4,4,Finished,12.0,0,1
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,norris,NOR,4,Lando Norris,McLaren,4,5,5,Finished,10.0,0,1
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,ricciardo,RIC,3,Daniel Ricciardo,McLaren,7,6,6,Finished,8.0,0,1
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,8,7,7,Finished,6.0,0,1
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,12,8,8,Finished,4.0,0,1
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,gasly,GAS,10,Pierre Gasly,AlphaTauri,11,9,9,Finished,2.0,0,1
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,albon,ALB,23,Alexander Albon,Williams,20,10,10,Finished,1.0,0,1
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,14,11,11,Finished,0.0,0,0
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,stroll,STR,18,Lance Stroll,Aston Martin,19,12,12,Finished,0.0,0,0
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,15,13,13,+1 Lap,0.0,0,0
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,16,14,14,+1 Lap,0.0,0,0
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,13,15,15,+1 Lap,0.0,0,0
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,latifi,LAT,6,Nicholas Latifi,Williams,18,16,16,+1 Lap,0.0,0,0
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,10,17,17,+1 Lap,0.0,0,0
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,2,18,R,Fuel leak,0.0,0,0
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,vettel,VET,5,Sebastian Vettel,Aston Martin,17,19,R,Accident,0.0,0,0
+2022,3,Australian Grand Prix,2022-04-10,Australia,Melbourne,Albert Park Grand Prix Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,9,20,R,Spun off,0.0,0,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,26.0,1,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,perez,PER,11,Sergio Pérez,Red Bull,3,2,2,Finished,18.0,1,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,norris,NOR,4,Lando Norris,McLaren,5,3,3,Finished,15.0,1,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,russell,RUS,63,George Russell,Mercedes,11,4,4,Finished,12.0,0,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,7,5,5,Finished,10.0,0,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,leclerc,LEC,16,Charles Leclerc,Ferrari,2,6,6,Finished,8.0,0,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,12,7,7,Finished,6.0,0,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,vettel,VET,5,Sebastian Vettel,Aston Martin,13,8,8,Finished,4.0,0,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,8,9,9,Finished,2.0,0,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,stroll,STR,18,Lance Stroll,Aston Martin,15,10,10,+1 Lap,1.0,0,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,albon,ALB,23,Alexander Albon,Williams,18,11,11,+1 Lap,0.0,0,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,gasly,GAS,10,Pierre Gasly,AlphaTauri,17,12,12,+1 Lap,0.0,0,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,hamilton,HAM,44,Lewis Hamilton,Mercedes,14,13,13,+1 Lap,0.0,0,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,16,14,14,+1 Lap,0.0,0,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,0,15,15,+1 Lap,0.0,0,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,latifi,LAT,6,Nicholas Latifi,Williams,19,16,16,+1 Lap,0.0,0,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,10,17,17,+1 Lap,0.0,0,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,ricciardo,RIC,3,Daniel Ricciardo,McLaren,6,18,18,+1 Lap,0.0,0,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,9,19,R,Collision damage,0.0,0,0
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Italy,Imola,Autodromo Enzo e Dino Ferrari,sainz,SAI,55,Carlos Sainz,Ferrari,4,20,R,Collision,0.0,0,0
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,max_verstappen,VER,1,Max Verstappen,Red Bull,3,1,1,Finished,26.0,1,1
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,leclerc,LEC,16,Charles Leclerc,Ferrari,1,2,2,Finished,18.0,1,1
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,sainz,SAI,55,Carlos Sainz,Ferrari,2,3,3,Finished,15.0,1,1
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,perez,PER,11,Sergio Pérez,Red Bull,4,4,4,Finished,12.0,0,1
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,russell,RUS,63,George Russell,Mercedes,12,5,5,Finished,10.0,0,1
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,hamilton,HAM,44,Lewis Hamilton,Mercedes,6,6,6,Finished,8.0,0,1
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,5,7,7,Finished,6.0,0,1
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,20,8,8,Finished,4.0,0,1
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,albon,ALB,23,Alexander Albon,Williams,18,9,9,Finished,2.0,0,1
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,stroll,STR,18,Lance Stroll,Aston Martin,0,10,10,Finished,1.0,0,1
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,11,11,11,Finished,0.0,0,0
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,9,12,12,Finished,0.0,0,0
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,ricciardo,RIC,3,Daniel Ricciardo,McLaren,14,13,13,Finished,0.0,0,0
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,latifi,LAT,6,Nicholas Latifi,Williams,19,14,14,Finished,0.0,0,0
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,15,15,15,Finished,0.0,0,0
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,16,16,16,Front wing,0.0,0,0
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,vettel,VET,5,Sebastian Vettel,Aston Martin,0,17,17,Collision,0.0,0,0
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,gasly,GAS,10,Pierre Gasly,AlphaTauri,7,18,R,Suspension,0.0,0,0
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,norris,NOR,4,Lando Norris,McLaren,8,19,R,Collision,0.0,0,0
+2022,5,Miami Grand Prix,2022-05-08,USA,Miami,Miami International Autodrome,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,17,20,R,Water leak,0.0,0,0
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,max_verstappen,VER,1,Max Verstappen,Red Bull,2,1,1,Finished,25.0,1,1
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,perez,PER,11,Sergio Pérez,Red Bull,5,2,2,Finished,19.0,1,1
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,russell,RUS,63,George Russell,Mercedes,4,3,3,Finished,15.0,1,1
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,sainz,SAI,55,Carlos Sainz,Ferrari,3,4,4,Finished,12.0,0,1
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,hamilton,HAM,44,Lewis Hamilton,Mercedes,6,5,5,Finished,10.0,0,1
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,7,6,6,Finished,8.0,0,1
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,12,7,7,Finished,6.0,0,1
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,norris,NOR,4,Lando Norris,McLaren,11,8,8,Finished,4.0,0,1
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,20,9,9,+1 Lap,2.0,0,1
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,13,10,10,+1 Lap,1.0,0,1
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,vettel,VET,5,Sebastian Vettel,Aston Martin,16,11,11,+1 Lap,0.0,0,0
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,ricciardo,RIC,3,Daniel Ricciardo,McLaren,9,12,12,+1 Lap,0.0,0,0
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,gasly,GAS,10,Pierre Gasly,AlphaTauri,14,13,13,+1 Lap,0.0,0,0
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,10,14,14,+1 Lap,0.0,0,0
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,stroll,STR,18,Lance Stroll,Aston Martin,17,15,15,+1 Lap,0.0,0,0
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,latifi,LAT,6,Nicholas Latifi,Williams,19,16,16,+2 Laps,0.0,0,0
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,8,17,17,+2 Laps,0.0,0,0
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,albon,ALB,23,Alexander Albon,Williams,18,18,18,+2 Laps,0.0,0,0
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,15,19,R,Power loss,0.0,0,0
+2022,6,Spanish Grand Prix,2022-05-22,Spain,Barcelona,Circuit de Barcelona-Catalunya,leclerc,LEC,16,Charles Leclerc,Ferrari,1,20,R,Turbo,0.0,0,0
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,perez,PER,11,Sergio Pérez,Red Bull,3,1,1,Finished,25.0,1,1
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,sainz,SAI,55,Carlos Sainz,Ferrari,2,2,2,Finished,18.0,1,1
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,max_verstappen,VER,1,Max Verstappen,Red Bull,4,3,3,Finished,15.0,1,1
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,leclerc,LEC,16,Charles Leclerc,Ferrari,1,4,4,Finished,12.0,0,1
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,russell,RUS,63,George Russell,Mercedes,6,5,5,Finished,10.0,0,1
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,norris,NOR,4,Lando Norris,McLaren,5,6,6,Finished,9.0,0,1
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,7,7,7,Finished,6.0,0,1
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,hamilton,HAM,44,Lewis Hamilton,Mercedes,8,8,8,Finished,4.0,0,1
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,12,9,9,Finished,2.0,0,1
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,vettel,VET,5,Sebastian Vettel,Aston Martin,9,10,10,Finished,1.0,0,1
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,gasly,GAS,10,Pierre Gasly,AlphaTauri,17,11,11,Finished,0.0,0,0
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,10,12,12,Finished,0.0,0,0
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,ricciardo,RIC,3,Daniel Ricciardo,McLaren,14,13,13,Finished,0.0,0,0
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,stroll,STR,18,Lance Stroll,Aston Martin,18,14,14,Finished,0.0,0,0
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,latifi,LAT,6,Nicholas Latifi,Williams,19,15,15,+1 Lap,0.0,0,0
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,20,16,16,+1 Lap,0.0,0,0
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,11,17,17,+1 Lap,0.0,0,0
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,albon,ALB,23,Alexander Albon,Williams,16,18,R,Mechanical,0.0,0,0
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,15,19,R,Accident,0.0,0,0
+2022,7,Monaco Grand Prix,2022-05-29,Monaco,Monte Carlo,Circuit de Monaco,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,13,20,R,Water pressure,0.0,0,0
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,3,1,1,Finished,25.0,1,1
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,perez,PER,11,Sergio Pérez,Red Bull,2,2,2,Finished,19.0,1,1
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,russell,RUS,63,George Russell,Mercedes,5,3,3,Finished,15.0,1,1
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,7,4,4,Finished,12.0,0,1
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,gasly,GAS,10,Pierre Gasly,AlphaTauri,6,5,5,Finished,10.0,0,1
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,vettel,VET,5,Sebastian Vettel,Aston Martin,9,6,6,Finished,8.0,0,1
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,10,7,7,Finished,6.0,0,1
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,ricciardo,RIC,3,Daniel Ricciardo,McLaren,12,8,8,Finished,4.0,0,1
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,norris,NOR,4,Lando Norris,McLaren,11,9,9,Finished,2.0,0,1
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,13,10,10,Finished,1.0,0,1
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,15,11,11,+1 Lap,0.0,0,0
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,albon,ALB,23,Alexander Albon,Williams,17,12,12,+1 Lap,0.0,0,0
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,8,13,13,+1 Lap,0.0,0,0
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,20,14,14,+1 Lap,0.0,0,0
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,latifi,LAT,6,Nicholas Latifi,Williams,18,15,15,+1 Lap,0.0,0,0
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,stroll,STR,18,Lance Stroll,Aston Martin,19,16,16,Vibrations,0.0,0,0
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,16,17,R,Power Unit,0.0,0,0
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,14,18,R,Hydraulics,0.0,0,0
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,1,19,R,Power Unit,0.0,0,0
+2022,8,Azerbaijan Grand Prix,2022-06-12,Azerbaijan,Baku,Baku City Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,4,20,R,Hydraulics,0.0,0,0
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,25.0,1,1
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,sainz,SAI,55,Carlos Sainz,Ferrari,3,2,2,Finished,19.0,1,1
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,hamilton,HAM,44,Lewis Hamilton,Mercedes,4,3,3,Finished,15.0,1,1
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,russell,RUS,63,George Russell,Mercedes,8,4,4,Finished,12.0,0,1
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,leclerc,LEC,16,Charles Leclerc,Ferrari,19,5,5,Finished,10.0,0,1
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,7,6,6,Finished,8.0,0,1
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,11,7,7,Finished,6.0,0,1
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,10,8,8,Finished,4.0,0,1
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,2,9,9,Finished,2.0,0,1
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,stroll,STR,18,Lance Stroll,Aston Martin,17,10,10,Finished,1.0,0,1
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,ricciardo,RIC,3,Daniel Ricciardo,McLaren,9,11,11,Finished,0.0,0,0
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,vettel,VET,5,Sebastian Vettel,Aston Martin,16,12,12,Finished,0.0,0,0
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,albon,ALB,23,Alexander Albon,Williams,12,13,13,Finished,0.0,0,0
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,gasly,GAS,10,Pierre Gasly,AlphaTauri,15,14,14,Finished,0.0,0,0
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,norris,NOR,4,Lando Norris,McLaren,14,15,15,Finished,0.0,0,0
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,latifi,LAT,6,Nicholas Latifi,Williams,18,16,16,Finished,0.0,0,0
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,5,17,17,Finished,0.0,0,0
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,20,18,R,Accident,0.0,0,0
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,6,19,R,Engine,0.0,0,0
+2022,9,Canadian Grand Prix,2022-06-19,Canada,Montreal,Circuit Gilles Villeneuve,perez,PER,11,Sergio Pérez,Red Bull,13,20,R,Gearbox,0.0,0,0
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,1,1,1,Finished,25.0,1,1
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,perez,PER,11,Sergio Pérez,Red Bull,4,2,2,Finished,18.0,1,1
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,5,3,3,Finished,16.0,1,1
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,3,4,4,Finished,12.0,0,1
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,7,5,5,Finished,10.0,0,1
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,norris,NOR,4,Lando Norris,McLaren,6,6,6,Finished,8.0,0,1
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,2,7,7,Finished,6.0,0,1
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,19,8,8,Finished,4.0,0,1
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,vettel,VET,5,Sebastian Vettel,Aston Martin,18,9,9,Finished,2.0,0,1
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,17,10,10,Finished,1.0,0,1
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,stroll,STR,18,Lance Stroll,Aston Martin,20,11,11,Finished,0.0,0,0
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,latifi,LAT,6,Nicholas Latifi,Williams,10,12,12,Finished,0.0,0,0
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,ricciardo,RIC,3,Daniel Ricciardo,McLaren,14,13,13,Finished,0.0,0,0
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,13,14,14,Finished,0.0,0,0
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,15,15,R,Fuel pump,0.0,0,0
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,gasly,GAS,10,Pierre Gasly,AlphaTauri,11,16,R,Collision damage,0.0,0,0
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,12,17,R,Gearbox,0.0,0,0
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,russell,RUS,63,George Russell,Mercedes,8,18,R,Collision,0.0,0,0
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,9,19,R,Collision,0.0,0,0
+2022,10,British Grand Prix,2022-07-03,UK,Silverstone,Silverstone Circuit,albon,ALB,23,Alexander Albon,Williams,16,20,R,Collision,0.0,0,0
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,leclerc,LEC,16,Charles Leclerc,Ferrari,2,1,1,Finished,25.0,1,1
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,max_verstappen,VER,1,Max Verstappen,Red Bull,1,2,2,Finished,19.0,1,1
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,hamilton,HAM,44,Lewis Hamilton,Mercedes,8,3,3,Finished,15.0,1,1
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,russell,RUS,63,George Russell,Mercedes,4,4,4,Finished,12.0,0,1
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,6,5,5,Finished,10.0,0,1
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,9,6,6,+1 Lap,8.0,0,1
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,norris,NOR,4,Lando Norris,McLaren,10,7,7,+1 Lap,6.0,0,1
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,7,8,8,+1 Lap,4.0,0,1
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,ricciardo,RIC,3,Daniel Ricciardo,McLaren,11,9,9,+1 Lap,2.0,0,1
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,19,10,10,+1 Lap,1.0,0,1
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,0,11,11,+1 Lap,0.0,0,0
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,albon,ALB,23,Alexander Albon,Williams,15,12,12,+1 Lap,0.0,0,0
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,stroll,STR,18,Lance Stroll,Aston Martin,12,13,13,+1 Lap,0.0,0,0
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,13,14,14,+1 Lap,0.0,0,0
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,gasly,GAS,10,Pierre Gasly,AlphaTauri,14,15,15,+1 Lap,0.0,0,0
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,16,16,16,+1 Lap,0.0,0,0
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,vettel,VET,5,Sebastian Vettel,Aston Martin,18,17,17,+1 Lap,0.0,0,0
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,sainz,SAI,55,Carlos Sainz,Ferrari,3,18,R,Power Unit,0.0,0,0
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,latifi,LAT,6,Nicholas Latifi,Williams,17,19,R,Undertray,0.0,0,0
+2022,11,Austrian Grand Prix,2022-07-10,Austria,Spielberg,Red Bull Ring,perez,PER,11,Sergio Pérez,Red Bull,5,20,R,Collision damage,0.0,0,0
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,max_verstappen,VER,1,Max Verstappen,Red Bull,2,1,1,Finished,25.0,1,1
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,hamilton,HAM,44,Lewis Hamilton,Mercedes,4,2,2,Finished,18.0,1,1
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,russell,RUS,63,George Russell,Mercedes,6,3,3,Finished,15.0,1,1
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,perez,PER,11,Sergio Pérez,Red Bull,3,4,4,Finished,12.0,0,1
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,sainz,SAI,55,Carlos Sainz,Ferrari,19,5,5,Finished,11.0,0,1
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,7,6,6,Finished,8.0,0,1
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,norris,NOR,4,Lando Norris,McLaren,5,7,7,Finished,6.0,0,1
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,10,8,8,Finished,4.0,0,1
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,ricciardo,RIC,3,Daniel Ricciardo,McLaren,9,9,9,Finished,2.0,0,1
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,stroll,STR,18,Lance Stroll,Aston Martin,15,10,10,Finished,1.0,0,1
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,vettel,VET,5,Sebastian Vettel,Aston Martin,12,11,11,Finished,0.0,0,0
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,gasly,GAS,10,Pierre Gasly,AlphaTauri,14,12,12,Finished,0.0,0,0
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,albon,ALB,23,Alexander Albon,Williams,13,13,13,Finished,0.0,0,0
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,11,14,14,Finished,0.0,0,0
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,17,15,15,Finished,0.0,0,0
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,16,16,16,+6 Laps,0.0,0,0
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,latifi,LAT,6,Nicholas Latifi,Williams,18,17,R,Collision damage,0.0,0,0
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,20,18,R,Collision damage,0.0,0,0
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,leclerc,LEC,16,Charles Leclerc,Ferrari,1,19,R,Accident,0.0,0,0
+2022,12,French Grand Prix,2022-07-24,France,Le Castellet,Circuit Paul Ricard,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,8,20,R,Undertray,0.0,0,0
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,max_verstappen,VER,1,Max Verstappen,Red Bull,10,1,1,Finished,25.0,1,1
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,hamilton,HAM,44,Lewis Hamilton,Mercedes,7,2,2,Finished,19.0,1,1
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,russell,RUS,63,George Russell,Mercedes,1,3,3,Finished,15.0,1,1
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,sainz,SAI,55,Carlos Sainz,Ferrari,2,4,4,Finished,12.0,0,1
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,perez,PER,11,Sergio Pérez,Red Bull,11,5,5,Finished,10.0,0,1
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,leclerc,LEC,16,Charles Leclerc,Ferrari,3,6,6,Finished,8.0,0,1
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,norris,NOR,4,Lando Norris,McLaren,4,7,7,Finished,6.0,0,1
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,6,8,8,+1 Lap,4.0,0,1
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,5,9,9,+1 Lap,2.0,0,1
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,vettel,VET,5,Sebastian Vettel,Aston Martin,18,10,10,+1 Lap,1.0,0,1
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,stroll,STR,18,Lance Stroll,Aston Martin,14,11,11,+1 Lap,0.0,0,0
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,gasly,GAS,10,Pierre Gasly,AlphaTauri,0,12,12,+1 Lap,0.0,0,0
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,12,13,13,+1 Lap,0.0,0,0
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,15,14,14,+1 Lap,0.0,0,0
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,ricciardo,RIC,3,Daniel Ricciardo,McLaren,9,15,15,+1 Lap,0.0,0,0
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,13,16,16,+1 Lap,0.0,0,0
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,albon,ALB,23,Alexander Albon,Williams,17,17,17,+1 Lap,0.0,0,0
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,latifi,LAT,6,Nicholas Latifi,Williams,19,18,18,+1 Lap,0.0,0,0
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,16,19,19,+2 Laps,0.0,0,0
+2022,13,Hungarian Grand Prix,2022-07-31,Hungary,Budapest,Hungaroring,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,8,20,20,Power Unit,0.0,0,0
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,max_verstappen,VER,1,Max Verstappen,Red Bull,14,1,1,Finished,26.0,1,1
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,perez,PER,11,Sergio Pérez,Red Bull,2,2,2,Finished,18.0,1,1
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,sainz,SAI,55,Carlos Sainz,Ferrari,1,3,3,Finished,15.0,1,1
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,russell,RUS,63,George Russell,Mercedes,5,4,4,Finished,12.0,0,1
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,3,5,5,Finished,10.0,0,1
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,leclerc,LEC,16,Charles Leclerc,Ferrari,15,6,6,Finished,8.0,0,1
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,16,7,7,Finished,6.0,0,1
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,vettel,VET,5,Sebastian Vettel,Aston Martin,10,8,8,Finished,4.0,0,1
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,gasly,GAS,10,Pierre Gasly,AlphaTauri,0,9,9,Finished,2.0,0,1
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,albon,ALB,23,Alexander Albon,Williams,6,10,10,Finished,1.0,0,1
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,stroll,STR,18,Lance Stroll,Aston Martin,9,11,11,Finished,0.0,0,0
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,norris,NOR,4,Lando Norris,McLaren,17,12,12,Finished,0.0,0,0
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,0,13,13,Finished,0.0,0,0
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,18,14,14,Finished,0.0,0,0
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,ricciardo,RIC,3,Daniel Ricciardo,McLaren,7,15,15,Finished,0.0,0,0
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,12,16,16,+1 Lap,0.0,0,0
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,19,17,17,+1 Lap,0.0,0,0
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,latifi,LAT,6,Nicholas Latifi,Williams,11,18,18,+1 Lap,0.0,0,0
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,13,19,R,Accident,0.0,0,0
+2022,14,Belgian Grand Prix,2022-08-28,Belgium,Spa,Circuit de Spa-Francorchamps,hamilton,HAM,44,Lewis Hamilton,Mercedes,4,20,R,Collision damage,0.0,0,0
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,26.0,1,1
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,russell,RUS,63,George Russell,Mercedes,6,2,2,Finished,18.0,1,1
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,leclerc,LEC,16,Charles Leclerc,Ferrari,2,3,3,Finished,15.0,1,1
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,hamilton,HAM,44,Lewis Hamilton,Mercedes,4,4,4,Finished,12.0,0,1
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,perez,PER,11,Sergio Pérez,Red Bull,5,5,5,Finished,10.0,0,1
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,13,6,6,Finished,8.0,0,1
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,norris,NOR,4,Lando Norris,McLaren,7,7,7,Finished,6.0,0,1
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,sainz,SAI,55,Carlos Sainz,Ferrari,3,8,8,Finished,4.0,0,1
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,12,9,9,Finished,2.0,0,1
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,stroll,STR,18,Lance Stroll,Aston Martin,10,10,10,Finished,1.0,0,1
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,gasly,GAS,10,Pierre Gasly,AlphaTauri,11,11,11,Finished,0.0,0,0
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,albon,ALB,23,Alexander Albon,Williams,15,12,12,Finished,0.0,0,0
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,8,13,13,Finished,0.0,0,0
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,vettel,VET,5,Sebastian Vettel,Aston Martin,19,14,14,Finished,0.0,0,0
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,18,15,15,Finished,0.0,0,0
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,14,16,16,Finished,0.0,0,0
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,ricciardo,RIC,3,Daniel Ricciardo,McLaren,17,17,17,Finished,0.0,0,0
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,latifi,LAT,6,Nicholas Latifi,Williams,20,18,18,+1 Lap,0.0,0,0
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,16,19,R,Engine,0.0,0,0
+2022,15,Dutch Grand Prix,2022-09-04,Netherlands,Zandvoort,Circuit Park Zandvoort,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,9,20,R,Differential,0.0,0,0
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,max_verstappen,VER,1,Max Verstappen,Red Bull,7,1,1,Finished,25.0,1,1
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,leclerc,LEC,16,Charles Leclerc,Ferrari,1,2,2,Finished,18.0,1,1
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,russell,RUS,63,George Russell,Mercedes,2,3,3,Finished,15.0,1,1
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,sainz,SAI,55,Carlos Sainz,Ferrari,18,4,4,Finished,12.0,0,1
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,hamilton,HAM,44,Lewis Hamilton,Mercedes,19,5,5,Finished,10.0,0,1
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,perez,PER,11,Sergio Pérez,Red Bull,13,6,6,Finished,9.0,0,1
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,norris,NOR,4,Lando Norris,McLaren,3,7,7,Finished,6.0,0,1
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,gasly,GAS,10,Pierre Gasly,AlphaTauri,5,8,8,Finished,4.0,0,1
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,de_vries,DEV,45,Nyck de Vries,Williams,8,9,9,Finished,2.0,0,1
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,9,10,10,Finished,1.0,0,1
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,14,11,11,Finished,0.0,0,0
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,17,12,12,Finished,0.0,0,0
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,15,13,13,+1 Lap,0.0,0,0
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,20,14,14,+1 Lap,0.0,0,0
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,latifi,LAT,6,Nicholas Latifi,Williams,10,15,15,+1 Lap,0.0,0,0
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,16,16,16,+1 Lap,0.0,0,0
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,ricciardo,RIC,3,Daniel Ricciardo,McLaren,4,17,R,Oil leak,0.0,0,0
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,stroll,STR,18,Lance Stroll,Aston Martin,12,18,R,Engine,0.0,0,0
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,6,19,R,Water pressure,0.0,0,0
+2022,16,Italian Grand Prix,2022-09-11,Italy,Monza,Autodromo Nazionale di Monza,vettel,VET,5,Sebastian Vettel,Aston Martin,11,20,R,Engine,0.0,0,0
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,perez,PER,11,Sergio Pérez,Red Bull,2,1,1,Finished,25.0,1,1
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,1,2,2,Finished,18.0,1,1
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,4,3,3,Finished,15.0,1,1
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,norris,NOR,4,Lando Norris,McLaren,6,4,4,Finished,12.0,0,1
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,ricciardo,RIC,3,Daniel Ricciardo,McLaren,16,5,5,Finished,10.0,0,1
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,stroll,STR,18,Lance Stroll,Aston Martin,11,6,6,Finished,8.0,0,1
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,8,7,7,Finished,6.0,0,1
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,vettel,VET,5,Sebastian Vettel,Aston Martin,13,8,8,Finished,4.0,0,1
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,3,9,9,Finished,2.0,0,1
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,gasly,GAS,10,Pierre Gasly,AlphaTauri,7,10,10,Finished,1.0,0,1
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,15,11,11,Finished,0.0,0,0
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,9,12,12,Finished,0.0,0,0
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,12,13,13,+1 Lap,0.0,0,0
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,russell,RUS,63,George Russell,Mercedes,0,14,14,+2 Laps,0.0,0,0
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,10,15,R,Accident,0.0,0,0
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,17,16,R,Engine,0.0,0,0
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,albon,ALB,23,Alexander Albon,Williams,18,17,R,Collision damage,0.0,0,0
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,5,18,R,Engine,0.0,0,0
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,latifi,LAT,6,Nicholas Latifi,Williams,19,19,R,Collision damage,0.0,0,0
+2022,17,Singapore Grand Prix,2022-10-02,Singapore,Marina Bay,Marina Bay Street Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,14,20,R,Collision,0.0,0,0
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,25.0,1,1
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,perez,PER,11,Sergio Pérez,Red Bull,4,2,2,Finished,18.0,1,1
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,2,3,3,Finished,15.0,1,1
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,5,4,4,Finished,12.0,0,1
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,6,5,5,Finished,10.0,0,1
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,vettel,VET,5,Sebastian Vettel,Aston Martin,9,6,6,Finished,8.0,0,1
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,7,7,7,Finished,6.0,0,1
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,russell,RUS,63,George Russell,Mercedes,8,8,8,Finished,4.0,0,1
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,latifi,LAT,6,Nicholas Latifi,Williams,20,9,9,Finished,2.0,0,1
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,norris,NOR,4,Lando Norris,McLaren,10,10,10,Finished,1.0,0,1
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,ricciardo,RIC,3,Daniel Ricciardo,McLaren,11,11,11,Finished,0.0,0,0
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,stroll,STR,18,Lance Stroll,Aston Martin,19,12,12,Finished,0.0,0,0
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,13,13,13,Finished,0.0,0,0
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,18,14,14,Finished,0.0,0,0
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,12,15,15,Finished,0.0,0,0
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,14,16,16,Finished,0.0,0,0
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,15,17,17,Finished,0.0,0,0
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,gasly,GAS,10,Pierre Gasly,AlphaTauri,17,18,18,Finished,0.0,0,0
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,3,19,R,Accident,0.0,0,0
+2022,18,Japanese Grand Prix,2022-10-09,Japan,Suzuka,Suzuka Circuit,albon,ALB,23,Alexander Albon,Williams,16,20,R,Hydraulics,0.0,0,0
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,max_verstappen,VER,1,Max Verstappen,Red Bull,2,1,1,Finished,25.0,1,1
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,hamilton,HAM,44,Lewis Hamilton,Mercedes,3,2,2,Finished,18.0,1,1
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,leclerc,LEC,16,Charles Leclerc,Ferrari,12,3,3,Finished,15.0,1,1
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,perez,PER,11,Sergio Pérez,Red Bull,9,4,4,Finished,12.0,0,1
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,russell,RUS,63,George Russell,Mercedes,4,5,5,Finished,11.0,0,1
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,norris,NOR,4,Lando Norris,McLaren,6,6,6,Finished,8.0,0,1
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,14,7,7,Finished,6.0,0,1
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,vettel,VET,5,Sebastian Vettel,Aston Martin,10,8,8,Finished,4.0,0,1
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,13,9,9,Finished,2.0,0,1
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,19,10,10,Finished,1.0,0,1
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,0,11,11,Finished,0.0,0,0
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,18,12,12,Finished,0.0,0,0
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,albon,ALB,23,Alexander Albon,Williams,8,13,13,Finished,0.0,0,0
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,gasly,GAS,10,Pierre Gasly,AlphaTauri,11,14,14,Finished,0.0,0,0
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,16,15,15,Finished,0.0,0,0
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,ricciardo,RIC,3,Daniel Ricciardo,McLaren,15,16,16,Finished,0.0,0,0
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,latifi,LAT,6,Nicholas Latifi,Williams,17,17,17,Finished,0.0,0,0
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,stroll,STR,18,Lance Stroll,Aston Martin,5,18,R,Collision,0.0,0,0
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,7,19,R,Spun off,0.0,0,0
+2022,19,United States Grand Prix,2022-10-23,USA,Austin,Circuit of the Americas,sainz,SAI,55,Carlos Sainz,Ferrari,1,20,R,Collision damage,0.0,0,0
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,25.0,1,1
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,hamilton,HAM,44,Lewis Hamilton,Mercedes,3,2,2,Finished,18.0,1,1
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,perez,PER,11,Sergio Pérez,Red Bull,4,3,3,Finished,15.0,1,1
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,russell,RUS,63,George Russell,Mercedes,2,4,4,Finished,13.0,0,1
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,sainz,SAI,55,Carlos Sainz,Ferrari,5,5,5,Finished,10.0,0,1
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,leclerc,LEC,16,Charles Leclerc,Ferrari,7,6,6,Finished,8.0,0,1
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,ricciardo,RIC,3,Daniel Ricciardo,McLaren,11,7,7,+1 Lap,6.0,0,1
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,10,8,8,+1 Lap,4.0,0,1
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,norris,NOR,4,Lando Norris,McLaren,8,9,9,+1 Lap,2.0,0,1
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,6,10,10,+1 Lap,1.0,0,1
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,gasly,GAS,10,Pierre Gasly,AlphaTauri,14,11,11,+1 Lap,0.0,0,0
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,albon,ALB,23,Alexander Albon,Williams,17,12,12,+1 Lap,0.0,0,0
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,12,13,13,+1 Lap,0.0,0,0
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,vettel,VET,5,Sebastian Vettel,Aston Martin,16,14,14,+1 Lap,0.0,0,0
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,stroll,STR,18,Lance Stroll,Aston Martin,20,15,15,+1 Lap,0.0,0,0
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,15,16,16,+1 Lap,0.0,0,0
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,19,17,17,+1 Lap,0.0,0,0
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,latifi,LAT,6,Nicholas Latifi,Williams,18,18,18,+2 Laps,0.0,0,0
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,9,19,19,Engine,0.0,0,0
+2022,20,Mexico City Grand Prix,2022-10-30,Mexico,Mexico City,Autódromo Hermanos Rodríguez,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,13,20,R,Collision damage,0.0,0,0
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,russell,RUS,63,George Russell,Mercedes,1,1,1,Finished,26.0,1,1
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,hamilton,HAM,44,Lewis Hamilton,Mercedes,2,2,2,Finished,18.0,1,1
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,sainz,SAI,55,Carlos Sainz,Ferrari,7,3,3,Finished,15.0,1,1
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,leclerc,LEC,16,Charles Leclerc,Ferrari,5,4,4,Finished,12.0,0,1
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,17,5,5,Finished,10.0,0,1
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,max_verstappen,VER,1,Max Verstappen,Red Bull,3,6,6,Finished,8.0,0,1
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,perez,PER,11,Sergio Pérez,Red Bull,4,7,7,Finished,6.0,0,1
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,16,8,8,Finished,4.0,0,1
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,14,9,9,Finished,2.0,0,1
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,stroll,STR,18,Lance Stroll,Aston Martin,15,10,10,Finished,1.0,0,1
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,vettel,VET,5,Sebastian Vettel,Aston Martin,9,11,11,Finished,0.0,0,0
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,13,12,12,Finished,0.0,0,0
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,12,13,13,Finished,0.0,0,0
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,gasly,GAS,10,Pierre Gasly,AlphaTauri,10,14,14,Finished,0.0,0,0
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,albon,ALB,23,Alexander Albon,Williams,19,15,15,Finished,0.0,0,0
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,latifi,LAT,6,Nicholas Latifi,Williams,18,16,16,Finished,0.0,0,0
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,0,17,17,+1 Lap,0.0,0,0
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,norris,NOR,4,Lando Norris,McLaren,6,18,R,Gearbox,0.0,0,0
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,8,19,R,Collision,0.0,0,0
+2022,21,São Paulo Grand Prix,2022-11-13,Brazil,São Paulo,Autódromo José Carlos Pace,ricciardo,RIC,3,Daniel Ricciardo,McLaren,11,20,R,Collision,0.0,0,0
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,max_verstappen,VER,1,Max Verstappen,Red Bull,1,1,1,Finished,25.0,1,1
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,leclerc,LEC,16,Charles Leclerc,Ferrari,3,2,2,Finished,18.0,1,1
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,perez,PER,11,Sergio Pérez,Red Bull,2,3,3,Finished,15.0,1,1
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,sainz,SAI,55,Carlos Sainz,Ferrari,4,4,4,Finished,12.0,0,1
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,russell,RUS,63,George Russell,Mercedes,6,5,5,Finished,10.0,0,1
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,norris,NOR,4,Lando Norris,McLaren,7,6,6,Finished,9.0,0,1
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,ocon,OCO,31,Esteban Ocon,Alpine F1 Team,8,7,7,Finished,6.0,0,1
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,stroll,STR,18,Lance Stroll,Aston Martin,14,8,8,Finished,4.0,0,1
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,ricciardo,RIC,3,Daniel Ricciardo,McLaren,13,9,9,Finished,2.0,0,1
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,vettel,VET,5,Sebastian Vettel,Aston Martin,9,10,10,Finished,1.0,0,1
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,tsunoda,TSU,22,Yuki Tsunoda,AlphaTauri,11,11,11,Finished,0.0,0,0
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,zhou,ZHO,24,Guanyu Zhou,Alfa Romeo,15,12,12,+1 Lap,0.0,0,0
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,albon,ALB,23,Alexander Albon,Williams,19,13,13,+1 Lap,0.0,0,0
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,gasly,GAS,10,Pierre Gasly,AlphaTauri,17,14,14,+1 Lap,0.0,0,0
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,bottas,BOT,77,Valtteri Bottas,Alfa Romeo,18,15,15,+1 Lap,0.0,0,0
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,mick_schumacher,MSC,47,Mick Schumacher,Haas F1 Team,12,16,16,+1 Lap,0.0,0,0
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,kevin_magnussen,MAG,20,Kevin Magnussen,Haas F1 Team,16,17,17,+1 Lap,0.0,0,0
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,hamilton,HAM,44,Lewis Hamilton,Mercedes,5,18,18,Hydraulics,0.0,0,0
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,latifi,LAT,6,Nicholas Latifi,Williams,20,19,19,Collision damage,0.0,0,0
+2022,22,Abu Dhabi Grand Prix,2022-11-20,UAE,Abu Dhabi,Yas Marina Circuit,alonso,ALO,14,Fernando Alonso,Alpine F1 Team,10,20,R,Water leak,0.0,0,0

@@ -12,7 +12,7 @@ class DriverBaseline:
 
 
 class AverageRacePredictor:
-    def __init__(self, data_path: str | Path = "data/samples/results.csv") -> None:
+    def __init__(self, data_path: str | Path = "data/processed/results.csv") -> None:
         self.data_path = Path(data_path)
 
     def predict_race(self) -> list[DriverBaseline]:
